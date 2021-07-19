@@ -1,4 +1,4 @@
-variable "resourcgroupname" {
+variable "resourcegroupname" {
     type = string 
 }    
 
